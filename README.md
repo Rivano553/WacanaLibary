@@ -2,7 +2,7 @@
 Project Praktikum RPLBO
 
 # Admin
-username : admin
+username : admin,
 pw : admin123
 
 # Anggota
